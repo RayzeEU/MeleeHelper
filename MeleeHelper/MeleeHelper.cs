@@ -92,7 +92,7 @@ namespace MeleeHelper
         {
             if (Me.IsDead || !Me.IsMelee || !Me.Mounted || Me.CurrentTarget == null || !s_dismount)
                 return false;
-            return false;
+            return true;
         }
 
         private static async Task<bool> Check()
