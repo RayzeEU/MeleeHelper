@@ -1,4 +1,7 @@
-﻿using Buddy.Coroutines;
+// Copyright (c) Rayze. All rights reserved.
+// Licensed under the MIT License. See LICENSE in the project root for license information.
+
+using Buddy.Coroutines;
 using CommonBehaviors.Actions;
 using Styx;
 using Styx.Common;
